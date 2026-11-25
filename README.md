@@ -72,9 +72,9 @@ bank_management_system/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/honeypal36/bank_management_system.git
+git clone https://github.com/Ravi-5-1/bank-management-system.git
 
-cd bank_management_system
+cd bank-management-system
 ```
 
 ### 2. Create the database
@@ -177,11 +177,4 @@ git push origin feature-name
 
 This project is licensed under the **MIT License**.
 
----
-
-## 👨‍💻 Author
-
-**Honey Pal**
-
-- GitHub: https://github.com/honeypal36
 
